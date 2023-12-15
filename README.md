@@ -1,8 +1,9 @@
 
-    <h1>Hi Abdelrahman</h1>
+   
   </header>
   <main class="main">
     <section class="about-me">
+         <h1>Hi Abdelrahman</h1>
       <h2>About Me</h2>
       <p>I am Tapajyoti Bose, a Cross Platform Developer (specializing in Front End Web Development) pursuing my Bachelors in Computer Science & Engineering. I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology.</p>
       <p>In 2020, I learnt Django, Electron, Flutter. React and TypeScript. in 2021 till now, I learnt Next.js. SASS Progressive Web App (PWA) and a bit about Three.js. I also got started with freelancing and blogging recently.</p>
