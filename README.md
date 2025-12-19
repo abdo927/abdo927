@@ -10,14 +10,7 @@
       <p>Outside the world of tech too. I love pushing myself to develop new skills playing gym,mma,swimming,tennis table and playing playstation games for more than 12 years    </p>
       <p>I love reading books on personal development & financial literacy. My favourites ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.</p>
     </section>
-    <section class="achievements">
-      <h2>Achievements</h2>
-      <ul>
-        <li> playing football  </li>
-        <li> win tournmant for ps5 5$</li>
-          <li> going to gym  </li>
-      </ul>
-    </section>
+    
     <section class="contact">
       <p>3216410aaa@gmail.com</p>
     </section>
