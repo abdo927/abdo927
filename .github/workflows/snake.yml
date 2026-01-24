@@ -1,35 +1,31 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: abdo927
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Setup Git
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-      - name: Push Snake to output branch
-        run: |
-          git checkout --orphan output || git checkout output
-          git add -f dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake contribution"
-          git push -f origin output
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
