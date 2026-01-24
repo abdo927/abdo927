@@ -4,6 +4,18 @@
   <section class="about-me">
     <h1>Hi, I'm Abdelrahman Tamer 👋</h1>
     <h2>About Me</h2>
+    ---
+
+### 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,linux,bash,git,github" />
+</p>
+
 
     <p>
       I am a Computer Science & Engineering student and a Cross-Platform Developer
