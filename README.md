@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Tamer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+Developer;Cybersecurity+Enthusiast;Cross-Platform+Developer;Building+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+Developer;Cybersecurity+Enthusiast;Cross-Platform+Developer;Building+Secure+Systems" alt="Typing animation"/>
 </p>
 
-<!-- Animated divider -->
+<!-- Animated header wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header" alt="Header wave"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering student** and a **Cross-Platform Developer**
+I am a **Computer Science & Engineering student** and a **Cross-Platform Developer**  
 with a strong focus on **Front-End Web Development** and **Cybersecurity**.
 
-I started my journey in web development in **2022**, and in **2023** I strengthened
-my front-end skills by learning **HTML, CSS, JavaScript, Bootstrap, Angular, and TypeScript**.
+I started my journey in web development in **2022**, and in **2023** I strengthened  
+my front-end skills by learning **HTML, CSS, JavaScript, Bootstrap, Angular, and TypeScript**.  
 Alongside development, I developed a strong interest in **cybersecurity and system-level technologies**.
 
-I have hands-on experience with **Python scripting**, **Linux fundamentals**, **Bash scripting**,
-and **Windows system concepts**, with solid knowledge of **networking and security fundamentals**
+I have hands-on experience with **Python scripting**, **Linux fundamentals**, **Bash scripting**,  
+and **Windows system concepts**, with solid knowledge of **networking and security fundamentals**  
 including **Network+ and Security+ concepts**.
 
-Recently, I have been expanding my **backend development skills** using **C#, SQL, LINQ**,
+Recently, I have been expanding my **backend development skills** using **C#, SQL, LINQ**,  
 and **database design (ERD)**.  
 My goal is to **combine development and security knowledge** to build **robust and secure systems**.
 
@@ -33,18 +33,18 @@ My goal is to **combine development and security knowledge** to build **robust a
 ## 🧠 Tech Stack
 
 ### Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" alt="Front-end icons"/>
 </p>
 
 ### Backend & Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python" alt="Backend icons"/>
 </p>
 
 ### Systems & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="Systems & tools icons"/>
 </p>
 
 ---
@@ -62,11 +62,11 @@ My goal is to **combine development and security knowledge** to build **robust a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanTamer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanTamer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanTamer&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanTamer&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -74,8 +74,10 @@ My goal is to **combine development and security knowledge** to build **robust a
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AbdelrahmanTamer/AbdelrahmanTamer/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/AbdelrahmanTamer/AbdelrahmanTamer/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Contribution Snake"/>
 </p>
+
+> ⚠️ Make sure you **set up the GitHub Actions workflow** as explained below for this snake to generate automatically.
 
 ---
 
@@ -100,5 +102,6 @@ Personal Development, Financial Literacy, Competitive Sports, and Gaming.
 
 <!-- Footer animated wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer" alt="Footer wave"/>
 </p>
+
