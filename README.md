@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+Developer;Cybersecurity+Enthusiast;Cross-Platform+Developer;Building+Secure+Systems" />
 </p>
 
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -46,11 +51,11 @@ My goal is to **combine development and security knowledge** to build **robust a
 
 ## 🔐 Cybersecurity Knowledge
 
-- Networking Fundamentals (TCP/IP, DNS, HTTP)
-- Network+ & Security+ Concepts
-- Secure Development Mindset
-- System Troubleshooting
-- Linux & Windows Fundamentals
+- Networking Fundamentals (TCP/IP, DNS, HTTP)  
+- Network+ & Security+ Concepts  
+- Secure Development Mindset  
+- System Troubleshooting  
+- Linux & Windows Fundamentals  
 
 ---
 
@@ -62,6 +67,14 @@ My goal is to **combine development and security knowledge** to build **robust a
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanTamer&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AbdelrahmanTamer/AbdelrahmanTamer/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -84,3 +97,8 @@ Personal Development, Financial Literacy, Competitive Sports, and Gaming.
 ## 📫 Contact
 
 📧 **Email:** 3216410aaa@gmail.com
+
+<!-- Footer animated wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
+</p>
