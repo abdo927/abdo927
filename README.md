@@ -57,11 +57,11 @@ My goal is to **combine development and security knowledge** to build **robust a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanTamer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo927&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanTamer&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo927&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -69,10 +69,9 @@ My goal is to **combine development and security knowledge** to build **robust a
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AbdelrahmanTamer/AbdelrahmanTamer/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/abdo927/abdo927/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-> ⚠️ Make sure you **set up the GitHub Actions workflow** to generate this snake.
 
 ---
 
