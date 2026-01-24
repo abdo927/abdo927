@@ -54,6 +54,19 @@
       <li><strong>Tools & Concepts:</strong> Git, GitHub, System Troubleshooting, Secure Development Mindset</li>
     </ul>
   </section>
+  ---
+
+
+
+- 🎓 Computer Science & Engineering student  
+- 🌐 Front-End Web Developer (Angular, TypeScript)  
+- 🛡️ Cybersecurity & Secure Systems enthusiast  
+- ⚙️ Backend fundamentals: C#, SQL, LINQ, ERD  
+- 🐧 Linux, Bash scripting & system concepts  
+
+I focus on building **secure, scalable, and well-structured applications**
+by combining **development** and **security** knowledge.
+
 
   <!-- Achievements -->
   <section class="achievements">
