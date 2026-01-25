@@ -53,19 +53,7 @@ My goal is to **bridge development and cybersecurity** to build
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1E3A8A&height=2"/>
 
-## 🚀 Projects
 
-- **CyberEye – Blue Team Project**  
-  SOC-style log analysis, alerting, and security metrics dashboard.
-
-- **Secure Web Application**  
-  Front-end Angular application with authentication, validation,
-  and secure development practices.
-
-- **Python Security Scripts**  
-  Automation scripts for system checks, networking tasks, and log parsing.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1E3A8A&height=2"/>
 
 ## 🔐 Cybersecurity Focus
 
