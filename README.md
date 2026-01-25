@@ -60,17 +60,8 @@ My goal is to **combine development and security knowledge** to build **robust a
   <img src="https://github-readme-stats.vercel.app/api?username=abdo927&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo927&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdo927/abdo927/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 
 ---
